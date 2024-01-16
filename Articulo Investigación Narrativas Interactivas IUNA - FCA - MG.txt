@@ -1,0 +1,417 @@
+﻿De la ambientación interactiva a la instalación eco-sistémica
+Fabricio Costa Alisedo - 2014
+fabricio.costa@moldeo.coop
+
+Proyecto de Investigación
+Universidad Nacional de Artes
+“La Narrativa Interactiva. El relato hipermediático y las mutaciones del tiempo y el espacio escénico.”
+dirección: Martín Groisman
+
+
+Resumen
+
+
+En base a la experiencia en el diseño de obras interactivas con el software Moldeo (www.moldeo.org), me propongo en este artículo analizar algunas obras desarrolladas con la ayuda de este software y de esta manera intentar exponer la complejidad evolutiva que las caracteriza. 
+Forzosamente este tipo de obras han trascendido las limitaciones del marco dónde se compusieron llevando el diseño de la obra interactiva a una problemática con características similares a las de un eco-sistema, un sistema complejo y vivo. En este artículo se estudiará como las mismas reglas que regulan estos eco-sistemas se pueden aplicar a la escena hypertextual e interactiva. Intentamos de esta manera abrir una puerta a pensar diferentes elementos, como son la programación, los dispositivos tecnológicos y la participación abierta del público desde puntos de vista innovadores para nuestra sociedad.
+ 
+Introducción
+
+
+En la medida en que el  ser humano  y  su relación  con el  entorno  evoluciona, lo hace  también  su  forma  de  expresarse, de construir su  historia y de imaginar nuevas historias. Desde el cuento narrado con voz, música, danza y mímica, desde la construcción de rituales a la simulación de escenarios y paisajes, nos adentramos hoy en una narrativa cruzada por los viajes espaciales, telescopios y drones, la visión de un mundo globalizado, la percepción en tiempo real de los efectos devastadores del cambio climático y la disolución de la privacidad en las redes sociales. Todos estos nuevos elementos de los que hoy somos concientes a diario nos obligan a cuestionarnos más rápido que de costumbre sobre nuestras costumbres y nuestras acciones. En ese mundo es dónde hoy el artista que compone una obra, será quizás también aquél que decida componer un tipo de obra dónde el creador se enfrenta a la disolución de las fronteras entre la obra, el público, el mundo y sus actores.
+Efectivamente, en el campo de la narrativa interactiva, nos interesa aquel compositor que suele imaginar una idea y luego componer la obra, pero que extiende esta idea diseñando un mecanismo que la represente. En lo que se convertirá esta nueva obra nos crea más incógnitas que certidumbres. El compositor a su vez deberá decidir el nivel de co-creación del espectador, ya que será el espectador que de alguna manera, no sólo desde su interpretación modificará la obra, sino que además la podrá reconstruir, afectarla dejando su marca. 
+
+
+¿Cómo se construye la narrativa desde la obra abierta y participativa, es una de las preguntas que este artículo intentará ahondar finalmente. A diferencia del videojuego, el eco-sistema no necesariamente tiene un fin, a lo sumo será el de auto-sustentarse. Se plantea de todas formas la posibilidad de generar una regulación interna de este tipo de instalaciones, conviertiéndose estas obras en una especie de organismo sistémico en dónde sus distintos componentes (órganos) así como los sensores que le permiten relacionarse con el medio (público) deben comunicarse para tender a un cierto equilibrio que les permita sostenerse entre las cualidades originalmente otorgadas por los artistas creadores en un primer momento y todos los momentos y modificaciones posteriores generadas por un auditorio co-creador del mensaje de la obra. Nos adentraremos sutilmente en como funciona esta dinámica.
+
+
+
+
+Las Categorías Interactivas con Moldeo
+
+
+Desde el principio de la experimentación con el software “Moldeo” han surgido nuevas posibles categorías de arte interactivo. Estas categorías emergían una vez transitado el camino dentro del marco de interacción transdisciplinaria que planteaban las diferentes propuestas y equipos de trabajo, ya fuera en el contexto de creación de una obra vinculada a las artes clásicas (teatro, opera, danza, cine) como a las puramente multimediales (performance, arte generativo, vjing, video-instalación, instalación interactiva ).
+
+
+        Para ilustrar mejor el análisis propuesto se describe en la siguiente página una tabla con las siguientes columnas:
+
+
+Año: para tener una referencia cronológica de la progresión del grado de interacción de las obras
+
+
+Nombre: Cada obra ha sido presentado con un nombre identificatorio que puede servir para buscar más referencias en la web
+
+
+Categoría: Es una lista de palabras claves que ilustran las disciplinas en juego en la obra interactiva.
+
+
+Descripción: Es una breve descripción del funcionamiento de la obra, haciendo énfasis en las características originales de su narrativa así como el método principal de funcionamiento.
+
+
+Grafo: Hace referencia al número de la figura que podrá encontrarse más abajo en el texto. Es un grafo que representa con líneas las direcciones de las señales analógicas o digitales que conectan los diferentes nodos. A su vez los nodos representan de manera abstracta dispositivos tecnológicos o analógicos incluyendo operados, performers, público, personas, pantallas, cámaras o sensores.
+
+Grado de Interacción: Es un número que permite identificar rápidamente el grado de interactividad propuesta en la obra.
+________________
+TABLA DE CATEGORÍAS ESCÉNICAS INTERACTIVAS
+
+Año
+	Nombre
+	Categoría
+	Descripción
+	Grafo
+	°Interacción
+	2006
+2008
+	Narciso en Tiempo Real
+	Live-Cinema
+	actor en escena con cámara en mano, mezcla por computadora, proyección e interacción pantalla/actor con escenas y actores pregrabados
+	Figura 1
+	2°grado
+	2006
+2007
+	Crave
+	Teatro,
+Ambientación Digital
+	obra de teatro con 4 actores en 4 sillas, 1 proyector y espejo fragmentador para cubrir fondo y paredes, fondo animado mezcla de paisajes abstractos y lineas animadas, todo operado manualmente, mascaras de luces y efectos sobre cada actor.
+	Figura 2
+	1°grado
+	2009
+2014
+	Cuentos Animados
+	Teatro-infantil,
+Animación,
+Dibujo en vivo
+	dibujo en vivo proyectado, animación actoral con interacción con el dibujo en vivo, música en vivo, interacción final con el público y el dibujo en vivo
+	Figura 3
+	3°grado
+	2009
+2011
+	Speak 3.0
+	Danza-Interactiva, Performance, Sensores, Música en vivo
+	Speak 3 es la primera versión de Speak dónde hay un interprete por cada disciplina: danza, música, imagen. A través de sensores se sensa el cuerpo de la performer.
+	Figura 4
+	4°grado
+	2013
+2014
+	Speak 4.0
+	Danza-Interactiva, Performance, Sensores, Web
+	En Speak 4.0 /Liquid se involucra la interacción del público de la web que gracias a sus celulares touch pueden intervenir la obra. Las señales touch afectan el sistema de proyección y en sincronía el sistema de audio
+	Figura 5
+
+	5°grado
+	2009
+2014
+	Remanencia
+	Torso-interactivo, Ambientación
+	Remanencia es un torso semitransparente que gracias a una cámara permite sensar a quién lo abraza, guardar temporalmente el video del abrazo junto con los datos del sensor de movimiento, permitiendo reproducir luego diferentes configuraciones visuales del abrazo en una proyección y un sonido alterados por la memoria remanente de ese abrazo.
+	Figura 6
+
+Figura 7
+	5° grado
+	2014
+	TuPlantaforma.com
+	Dibujo en vivo colaborativo, texto, musica, web, radio
+	Plataforma web online de dibujo e intervención virtual del jardin del CCEC. Desde cada navegador se puede ver la intervención de todos los usuarios en simultáneo. El sistema funciona como un pequeño ecosistema dónde cada elemento que se dibuja no es permanente y se recicla.
+	Figura 8
+	6°grado
+	GRAFOS DE SEÑALES Y RELACIONES
+Los grafos representan las señales analógicas y digitales entre los diferentes nodos que a su vez representan dispositivos tecnológicos como cámaras, pcs o pantallas operadas a su vez por actores, performers o público. Permiten de un vistazo tener una referencia del nivel de interconección y el grado de interactividad de la obra.
+
+
+  
+Fig. 1, Narciso en tiempo real.
+El diálogo transcurre en diferentes espacios escénicos, el espacio de la escena en vivo que sucede en vivo, y otros representados por los diferentes videos que conforman lo que denominamos la escena aumentada (los diferentes videos mezclados y proyectados con moldeo). Según el guión definido por el director, se desarrollaban varias líneas narrativas: la primera que definía al actor en su escena real, una segunda que estaba definida por escenas de los videos en pantalla, y una tercera en que el actor en vivo se vinculaba teatralmente con las escenas en pantalla. 
+
+
+  
+
+
+Fig. 2, Crave, las formas proyectadas con el proyector iluminan la sala y a los actores, Moldeo representa al operador de las proyecciones que dinamiza las transiciones y los cambios en función del texto narrado por los actores acompañando la interpretación sincrónicamente con tonos y transiciones animadas.
+
+
+  
+Fig. 3, Cuentos Animados, aquí todas las relaciones de conectividad son analógicas salvo la que une a Moldeo con la proyección que implica el proceso digital del software.
+
+
+
+  
+
+
+Fig. 4: Speak 3.0, la raya gruesa punteada implica más de un nivel de conectividad (analógico y digital), aunque se podría plantear un grafo más completo que involucre cada sensor, aquí lo obviamos para mantener la claridad. 
+
+
+  
+
+
+Fig 5. En la última versión de Speak, “Speak Liquid”, la participación del público es central. El público es quién colectivamente modifica los elementos de la proyección. Activa a su vez luego sonidos y configuraciones visuales remotamente a través de internet. El requísito es instalar una aplicación en su smartphone (TuioDroid para Android y TuioPad para iOS), modificar su configuración de red con una ip pública para así tener acceso a controlar con lo dedos ciertos elementos visuales de la proyección. El público remotamente visualiza la performance en la plataforma WaterWheel.
+  Fig. 6: Aquí se puede ver en el grafo la simetría y la retroalimentación, en la fig. 7 queda expuesto el segundo nivel relacionado con el procesamiento de los datos. En “Remanencia”, la huella del abrazo del interactor se hace visible a través de un torso traslúcido, aunque aquí la diferencia es que la imagen es registrada y memorizada por la programación de Remanencia en Moldeo. En paralelo Remanencia memoriza, sensa y categoriza la señal, que luego es re-emitida bajo una nuevas configuraciones con algunos parámetros aleatorios y relativos a las características sensadas del abrazo (superficie, tiempo de duración, movimiento).
+
+
+
+  
+
+Fig. 7: Grafo explicativo del funcionamiento del sensado y el posterior análisis de lo sensado, para luego pasar al motor de decisión, que seleccionará el guión de representación que exhiba la “Remanencia” del abrazo recién realizado
+Fig. 8: TuPlantaforma.com: interacción colaborativa  
+________________
+
+
+
+
+ANÁLISIS
+
+
+1. Lo sensible
+En las diferentes obras expuestas, una de las componentes comunes siempre ha sido la capacidad de percepción de cada uno de los agentes del sistema ( actor, público, músico, moldeo ) y la consecuente retro-alimentación sistémica (proyección, audio). Para que exista una retro-alimentación los agentes deben ser en primera instancia sensibles a su entorno, luego en segunda instancia afectar ese mismo entorno. La calidad de la obra depende en gran medida de esta capacidad sensible, que es en definitiva la capacidad de procesar la información del ambiente con suficiente calidad. En general, el dispositivo humano es el mejor agente de intercambio entre el concepto, el contexto y la afección a exponer, el diagrama se resuelve por sí sólo aunque este pueda necesitar alguna pauta guionada.
+
+   1. el agente humano vs el dispositivo de proyección
+El uso de la proyección se ha convertido en un nuevo elemento de replanteo del ambiente, no ya como algo fijo, un escenario, un acto sino en un posible continuo que extiende los límites físicos y temporales, de la misma manera que lo hace hoy un avión con las distancias de desplazamiento, o internet con la velocidad de la comunicación y la hypertextualidad. 
+El soporte de la proyección podrá modificarse, alterarse pero siempre estará presente de aquí en adelante en espectáculos y todo tipo de eventos que involucren medios digitales.
+En el proceso de percepción muchos son los mecanismos que entran en juego en una persona. Se corre el peligro de saturar el sistema con demasiados elementos, o simplemente perder el foco de atención. 
+El diseño de una puesta de narrativa interactiva en este sentido sería análoga a una receta de cocina, con el detalle de que algunos de sus ingredientes están literalmente vivos, y quizás no quieran realmente formar parte de esta receta o al menos no estar activos. La instalación interactiva propone quizás un posible recorrido, como comer la carne antes que el puré o bien comerlos combinados.
+La forma natural que tiene el agente humano es basarse literalemente en sus reflejos o sensibilidad subconciente a la hora de juzgar esas señales y de esa manera tener al menos una decisión ya preparada para el siguiente momento. Algunos consideran esta intuición humana como su característica fundamental y por ende imposible de simular.
+La mayoría de las veces se prefiere mantener un guión coreografiado de la obra, lo más precisamente posible, para evitar cualquier posible exabrupto o imprevisto que afecte el resultado de la obra. Esas obras no dejan de ser performáticas, pero digamos que propiamente dichas, no son interactivas.
+El caso es que existen otras categorías dónde justamente el agente humano tiene la obligación de responder a ciertos estímulos de la escena ambiental de una obra y para ello deberá memorizar esas señales pero también preparar su algoritmo interno para actuar, aplicarlo al pie de la letra como estipula el director.
+La síntesis que a priori parecería surgir de esta discusión es que la instalación interactiva, a medida que aumenta su complejidad y para ser efectiva en su narrativa, debe sostener su identidad a través de varios procesos de regulación sistémica que aquí intentaremos describir, esperando que sirvan como base para hacer inteligibles actuales y futuros diseños de narrativas interactivas.
+Vincular al público ha sido siempre la tarea más dificil de componer al menos que se lo piense desde el inicio de la composición de la obra, como parte realmente estructural de la obra interactiva. Nuevamente, en cuánto se involucra a agentes del público, este proceso puede hacerse de diferentes maneras, cosa que analizaremos un poco más adelante. Ahora lo primero que nos atañe es saber en definitiva si las partes cibernéticas del sistema simulan una sensibilidad ya sea visual, auditiva o textual, como se guionaría este proceso? ¿Qué patrones sensibles podría seleccionar el autor?
+
+      1. la importancia de la memoria
+La memoria juego un rol importantísimo de base, ya que funciona como la primera etapa de vinculación con el entorno, en un plan de conocimiento del contexto y sus alrededores, personajes, objetos que puedan sernos útiles, ver Fig 6 y 7. Es la que permite la recepción múltiple de información, incluso el cerebro memoriza cosas de las que no somos conscientes. La memoria es a su vez lo que nos permite crear un relato, por su extrema dependencia con el tiempo de acontecimientos, ordenarlos en una línea cronológico temporal. El primer nivel de categorización sucede en los sistemas neurológicos del hemisferio sensible, aplicando filtros pero intentando absorber el todo.
+
+      2. la memoria de señales filtradas: primer nivel de análisis
+Procesar información consume energía, se hace imperante reducir ese proceso cuando sea necesario. No sólo se memorizan imágenes, (fotones), se pueden memorizar cualquier tipo de señal siempre que exista un sensor que pueda captarla. La primera técnica para reducir las señales es el filtro, la selección de ciertos rangos reducidos por escalamiento a unos más pequeños. La última es la de la compresión de datos (Transformada de Fourier). Lo tercero es aislar los eventos del ruido de fondo. Los eventos a su vez pueden ser a su vez clasificados como aquellos que el cerebro del sistema considera como fundamentales. Esto puede suceder en un primer nivel de análisis y permite construir una memoria eventual que se memoriza primero por un proceso estadístico ( la segunda etapa de Remanencia es como una pequeña red neuronal ). Luego permitirá en otra instancia servir para cruzar información y tomar alguna decisión.
+
+      3. proceso de selección: el diseño de indicadores principales
+¿Qué queremos que afecte a nuestro sistema ? Bien, aquello que el sistema memoriza, claramente. En el cerebro se memoriza lo que se percibe en general, en un proceso selectivo natural de refuerzo o inhibición, sin embargo aquello que a veces es percibido regularmente puede llegar a ser completamente inhibido ya sea por la costumbre o por otro proceso consciente. La percepción conciente está relacionada con la atención, sin embargo es sabido que la percepción inconsciente siempre sucede. Esto pone de manifiesto en última instancia la capacidad inherente de autoregulación de cualquier sistema nervioso (neuronal) frente a la dinámica puramente sistémica. El proceso selectivo, ya sea consciente o auto-regulado, está presente en las primeras etapas del sensado.
+Sin embargo algo inherente al diseño de indicadores es la existencia de alguna característica que consideramos principalmente interesante del ambiente, la luminosidad ambiente, el movimiento, la entropía, un color en particular, la entrada de una persona, el encuentro de dos personas. Y es lo que en definitiva se convertiría en el foco de atención del sistema, ya que será a su vez lo que memorizará, y que luego se exponga retro-alimentado nuevamente en el sistema. Lo que el sistema memoriza es lo que el sistema reproducirá.
+         2. Lo inteligente
+Aún quedará siempre por definir que se expone y que no de lo sensado o memorizado. ¿ Surge la necesidad de regular ese proceso de memorización ? Claramente sí, ya que podemos necesitar un segundo análisis mucho más minucioso, aunque no queremos quizás reproducir exactamente un organismo con todas sus estrategias de defensa. El proceso consciente de regulación y selección es lo que realmente nos atañe aquí. Si ya analizamos la necesidad lógica de la memorización del ambiente, filtrada y categorizada, se plantea la etapa siguiente: re-analizar, re-categorizar, y luego re-focalizar en algún aspecto particular y en una lógica a su vez recursiva.
+
+            1. La integración de la memoria: análisis y re-categorización
+Una vez puesto el foco sobre una propiedad u objeto, regulamos los umbrales de los filtros automáticos y así generamos un cambio de sentido. Retro-alimentamos el sistema con una regulación que aumenta o magnifica una señal, a la vez de que generamos un análisis aún más minucioso. Aquello que focalize el proceso consciente del sistema, será a la vez el que finalmente memorize. En el orden de lo sensado, podemos hoy hacerlo con volúmenes, colores, movimiento, formas, y luego niveles diferentes de órdenes de entropía (nivel de desorden u orden).
+
+            2. La retro-alimentación: el estímulo se repite para fijar la memoria
+Si el foco se pone en un estímulo en particular, aquel magnificará la memoria interna del sistema con ese estímulo, luego puede expandirse incluso fractalmente, en un nivel de micro-análisis que nunca podrá superar realmente la granularidad del sistema, o sea, su resolución máxima. En el caso de una imagen el límite es el pixel , en la cámara la apertura del lente, en el audio el ancho de banda de frecuencias, en una web la cantidad de usuarios o la velocidad de transmisión. Pero si un sistema puede aumentar el zoom automáticamente, una decisión de diseño es permitir que ese parámetro pueda modificarse en relación a otro parámetro. De la misma manera, un agente puede pedirle a otro que le haga el favor de transmitirle su señal por estar físicamente más cerca del objeto focalizado.
+
+            3. Toma de decisiones: como mantener la estructura, de la homeostasis a la autopoiesis
+Tomar una decision es dificil, sobre todo porque una decisión inmplica de por sí, una noción de sentido, por ende un acierto o un error. El sentido más simple que surge automáticamente en cualquier sistema orgánico es el de la conservación del sistema. Si el sistema se desordena demasiado probablemente muera, deje de cumplir con su ciclo vital de funcionamiento. Otra característica primordial es la exploración del sistema. La energía libre se define en termodinámica como aquella diferencia entre el nivel de desorden actual del sistema y el nivel de desorden máximo que el sistema tolera antes de perder su condición de sistema.
+
+            4. Libre asociación: la componente creativa y el azar
+Según el filósofo matemático Leibnitz, contemporáneo de Newton e inventor de la primera calculadora, el universo es todo sentido, y este es el mejor universo que se podría crear. En controversias con Newton sobre la invención del cálculo infinitesimal, no se puede negar que Leibnitz aportó a la matemática la notación hoy popularmente usada para describir uno de los procesos clave del cálculo: la integral. La integral resolvía el cálculo de áreas compuestas por curvas. (cuadraturas) La integración definida como la anti-derivación es quizás lo que ha dado tanto optimismo en cuánto a la potencial capacidad predictiva de las ciencias mecanicistas. Si entendemos y podemos describir un proceso (con funciones conocidas), derivando estas funciones podremos descubrir el comportamiento intrínseco de su movimiento, y en este proceso de deducción profundizaríamos en el origen de ese comportamiento. Mientras que integrando estas funciones, podríamos estudiar su evolución y predecir algunas características de su comportamiento. Esta capacidad positivista inherente al método del cálculo, se diluye con la aparición de la incertidumbre cuántica, y finalmente muere con el descubrimiento de los sistemas complejos, la sensibilidad a las condiciones iniciales y el universo fractal. El concepto de continuidad deja de tener tanta relevancia.
+La sociedad nuevamente perdida al ver que la verdad del universo se aleja nuevamente a la velocidad de la luz, en un tejido cuántico impredecible para nuestros ojos, el hombre se obsesiona con el procesamiento de todo dato posible a memorizar, grabar, guardar, comunicar, y se prepara a finales del siglo XX a un nuevo renacimiento con una perspectiva ampliada e infinita tanto del individuo, el universo y sus interrelaciones. 
+En este nuevo contexto avanza la neurociencia como la siguiente base para el entendimiento de los mecanismos ocultos del universo y pone el foco en el cerebro humano. La integración cobra un nuevo significado. Siendo la nueva premisa la subdivisión infinita de la materia y la hiperconectividad comunicacional, la alegría que nos daba el conocer la función derivada o integral queda subordinada al misterio que nuevamente siembra el libre albedrío inherente de las cosas.
+La comprensión de las redes neuronales se convierte en la nueva frontera de la comprensión universal. El nivel de complejidad del funcionamiento del cerebro mantiene áun en la oscuridad los procesos más creativos. Las redes neuronales artificiales, el arte evolutivo, los métodos fractales, los autómatas celulares, ofrecen simulaciones complejas de comportamientos que se realísticamente se acercan peligrosamente al diseño elaborado y equilibrado de los seres vivos. 
+A la naturaleza claramente le importa poco dónde se origina la creatividad, no entiende de límites en esta categoría. Aquello que persiste no es esencialmente bello, pero resonará con el sistema por ser coherente y consistente en el período de producción de ese sistema. 
+Potenciar el proceso creativo de una narrativa creativa agregando parámetros aleatorios es una buena estrategia que en lo siguiente se intentará explorar y desplazar a otras estrategias más integrales. Finalmente la parte creativa de una narrativa creativa que implique un público, puede ser un incentivo, pero también algo inherente al sistema. Un sistema que cree de forma original nuevas configuraciones, con la suficiente inteligencia para reconocer su capacidad de resonancia con el sistema completo. Estamos realizando cierto nivel de automatización de estas combinatorias estéticas y evolutivas, y poco a poco se estará más cerca de que sean propensas a sensibilizar al público participante. Dejar libertad, pero dentro de un marco de conservación.
+
+               3. Estrategias para la Conservación
+La teoría sistémica extendida a los sistemas complejos toma vuelo en el momento en que queda expuesto su particular sensibilidad a las condiciones iniciales, y por ende su impredictibilidad. Aquí empezaremos tratando lo que planteamos como las bases de la conservación del sistema, comprendiendo a todo sistema  de narrativa interactiva como sistema complejo dinámico y caótico. Desde esta premisa se repasará los diferentes aspectos de regulación de sistemas, planteados como estrategias generales para mantener una identidad de la misma.
+
+                  1. La dimensión de la información
+Uno de los principales puntos a tener en cuenta es la cantidad de información ya sea de carácter poético o esquemático. Esta dialéctica poética/lógica es un eje para analizar los diferentes discursos y sus características dentro del sistema. El sensado apunta generalmente a encontrar relaciones intrínsecas en los sistemas. En el sistema de visión, se generaliza este concepto fácilmente agregando más ojos o puntos de vista, que a su vez pueden ser cámaras, o bien ajustando el ángulo para tener más detalle o cubrir más campo visual. Aunque interesa principalmente la forma en lo visible, existen también ciertas propiedades en la relación del color con la forma que agrega mucha información con respecto a la naturaleza de la forma, y por ende su significado. De la misma manera el sonido será clave en la construcción de un significado y podrá en conjunción con la imagen generar una atmósfera que creará el contexto adecuado para la narrativa
+De la misma forma que en la naturaleza encontramos indicadores que completan información sustancial sobre el clima (el movimiento de las hojas indica viento, el color del cielo la hora del día, la luz difusa la presencia de nubes) es redundante diseñar indicadores que de la misma forma ayuden a crear atmósferas dinámicas y sinestésicas.
+
+                     1. Diferentes puntos de vista
+La conjunción de puntos de vista es más que la suma de los puntos de vista. Siendo tan complejo este eco-sistema semi artificial que creamos, en la conjunción de estas partes emergen fenómenos comunes de la redundancia informativa pero también algunos inherentes a la fenomenología compleja, que idealmente son ritmos de sub-fenómenos menores, la superposición de imagen y sonidos crea texturas atípicas, y la retroalimentación del sistema puede crear saturaciones imprevistas, algunas violentas y otras sutiles y constructivas.
+
+                        1. Cámaras moviles
+En cualquier instalación dónde se plantea una comunicación de señales, uno de los componentes que contiene mayor versatilidad es la cámara. Una característica innovadora a plantear para las cámaras es la movilidad dentro de la instalación. El ejemplo más simple es un poco como se planteó en “Narciso en tiempo real”, dándole la posibilidad al actor de fijar en vivo su encuadre, y a la segunda cámara de propone otro alternativo, que luego son mezcladas. Ambas cámaras en el año 2005 eran cableadas al software Moldeo y conectaban directamente a una entrada firewire y a un conversor análogico digital por USB convirtiendo Moldeo en una pequeña isla de edición en vivo. En este juego de doble encuadre dinámico, se llevó a cabo un guión con límites bien definidos, para no perder el carácter narrativo de la performance y a la vez proponiendo este nuevo carácter poético y performático de la cámara en mano, que apoyado por la música en vivo convivían, e incluso construían sentido. Aquí es importante tener en cuenta que existía un nivel de entrenamiento tanto del actor como del director y el mezclado, que regulaban a priori el equilibrio del sentido del orden de los componentes y mantenía una estética retroalimentada que revitalizaba la idea original del “Narciso” en una continua y renovada identidad artística. Aquí el ojo (cámara) ve a través del actor, el director y el mezclador que deciden dónde hacer el foco, ya sea activamente moviendo la cámara, o en el proceso de mezcla ocultando o mostrando ese encuadre. Sobre esta segunda etapa compositiva volveremos luego. Pero antes debemos aclarar que existe una nueva poética a tener en cuenta gracias a las nuevas posibilidades de visión que consisten en incorporar señales de cámaras inalámbricas en vivo, operadas por el público. Esto claro nos lleva nuevamente a preguntarnos como se regularía este sistema. Las reglas de regulación en definitiva no son diferentes a las del actor, ni del director. En cambio si la orientación la manipulara algún algoritmo, que criterios podrían ser interesantes? Bueno, la detección de movimiento, de formas y en última instancia el sentido de estas formas en un contexto ya de por sí registrado.
+
+                        2. Proyectores móviles
+Entonces queda claro que las señales de retroalimentación son partes indispensables de un sistema. Volviendo al ejemplo del ojo, ya no únicamente como un componente receptor, existe una retroalimentación analítica que es parte del subsistema de exploración que finalmente es el que hace foco pero también recorre ávidamente en busca de información todas las formas del entorno. En un entorno de exploración dinámico, el proyector puede cumplir funciones tanto de artefacto de luz, para contrastar una escena, pero también como un accionador y retroalimentador de sentido proyectando una fotografía.
+
+                        3. Escenarios móviles
+Entendiendo como posible el proyector móvil como una escena virtual móvil, aunque limitada, abre la puerta a la idea incluso más vieja del escenario móvil. Aquí revisitamos e interpretamos el escenario móvil como una componente narrativa del orden más físico, que pueda romper con algunos principios espaciales, en teoría unidireccionales. Un escenario al que se puede acceder desde todos lados, con componentes internos móviles, es en sí un escenario móvil. Aunque también lo sería una plataforma giratoria o un ascensor en escena, podrían ser grandes motivaciones a la hora de pensar narrativas interactivas dónde la arquitectura espacial tomara un grado preponderante en definir dialécticas dramáticas. Un escenario con tres pisos, un ascensor y una pared giratoria son elementos que en el cine y en lo escénico ya han sido abordados. Lo interesante de plantear un nuevo tipo de escenario movil sería más bien el de abarcar un concepto de escenario evolutivo, un escenario donde los componentes puedan ser cambiados de lugar y por ende modificado en sus totalidad. En sus últimas instancias, una obra de narrativa interactiva hoy podría en combinación con sensores conectados a internet (GPS, wifi, acelerómetros) ubicarse en el mundo mismo como una sur-escena.
+
+                        4. Escenarios Virtuales
+El escenario virtual a su vez puede acercarse a este escenario real hypertextual. Los escenarios virtuales se imaginan como imágenes digitalizadas de mundos posibles, pero pueden ser re-interpretaciones de escenarios existentes. Estos escenarios virtuales pueden ser sub-escenarios de lo real.
+
+                        5. Comentarios 2.0
+De los escenarios virtuales pasamos directamente al concepto literario de escenario, el escenario que en su nivel más alto de abstracción puede describirse, inventarse y proyectarse a través del texto y la imaginación. Una obra que recibe comentarios, que los disemina, los memoriza, los reordena y combina de forma poética, podría reconstruir el escenario continuamente sobre la base puramente literaria.
+
+                           2. La regulación positiva
+Frente a todos estos impulsos y estímulos se plantea la problemática de la regulación, aquello que en principio debe regularse para mantener la estructura dinámica del sistema en funcionamiento. La regulación puede ser positiva o negativa, a favor o en contra del cambio, del accidente, del error y dentro de esta polarización subdividirse en estrategias más o menos efectivas dependiendo de los estímulos del ambiente o del contexto histórico.
+
+                              1. Aceleración de procesos
+La regulación positiva, como se entiende en la teoría sistémica, trata de fomentar un fenómeno, ya sea una señal o un proceso, a través de diferentes estrategias pero con el mismo fin de llegar finalmente un estado de equilibrio a través del desgaste.
+En una instalación interactiva, el vórtice que solemos crear es una serie de atributos y propiedades de nuestro sistema que emplean la energía libre de la escena, la amplifica en su potencialidad transformadora, llevándola más rápido a su conclusión. Repasaremos algunas de estas estrategias.  
+
+                                 1. Un poco de teoría de juegos
+Algunos procesos efectivamente en tiempo escénico, no son visibles, y en la necesidad de mostrar una relación entre lo que queremos mostrar y lo que el público interpreta, suele haber ciertas discrepancias. A veces la única estrategia posible es justamente la de incentivar al publico acelerando aquellos procesos que naturalmente son imperceptibles, y por ende pierden sentido tanto por la escala del tiempo en el que suceden, como la del espacio, la distancia o su magnitud.
+
+
+                                    1. Magnificación de una señal
+En el caos de remanencia, surgía la necesidad de motivar al público al abrazo, luego de su primer y tímido abrazo. La instalación diseñaba de forma pseudo-aleatoria un mini guión remanente del abrazo que acababa de sensar. Como estos abrazos podían llegar a durar unos escasos 5 segundos, para mantener el estímulo del público, se magnificaba el mini-guión, a través de la repetición dinámica del mismo abrazo de 5 segundos, con pequeñas alteraciones focalizadas, haciéndolo un poco más interesante, y así manteniendo al público expectante, animándose a un segundo abrazo.
+
+                                       2. Alta reactividad
+La reactividad ampliada del sistema es otra estrategia más ubicada hacia la motivación del público a intervenir.
+
+                                          1. El movimiento circunstancial / eventual genera foco!
+Es interesante como en el mundo del cine, como es el caso de Jerzy Skolimowski, al hacer algunas escenas en exteriores solía aprovechar cualquier accidente eventual, como es el caso de un accidente en la pelicula “le départ” con Jean Pierre Léaud (les 400 coups) que sucede por azar en una de las escenas es integrada en la película final. La frescura y pasión que declarar haber vivido Jean Pierre en ese proceso de dirección abierta y un poco lúdica, revitaliza y le da frescura y credibilidad a las actuaciones. Este es un caso de regulación positiva, que gracias a la posibilidad de la edición, siempre pueden ser aprovechadas. Lo accidental revitaliza lo real, crea un foco natural y tiene la capacidad de dinamizar y generar un vórtice de atención, que si fuera programado perdería su atributo esencial: la sorpresa. Luego veremos una forma de regulación más bien negativa que aplica este mismo director en su dirección de actores.
+
+                                             3. Amplificación de señales imperceptibles
+Aquellos movimientos imperceptibles por el mismo humano, que puedan amplificarse, son de gran interés, por su potencialidad artística. Suelen motivar al público a una mayor atención y detenimiento, y volcando ciertos niveles de animosidad a la instalación que los harán más perceptivos y comprometidos en su interacción.
+
+                                                2. El alimentador de impulsos
+El grado de libertad del público sobre la instalación nunca tiene los límites esperados. Incluso en el caso de un público pasivo en una obra tradicional, una interrupción del público raramente es tratada de forma positiva. En el caso que nos atañe, de la narrativa interactiva, a la inversa del teatro tradicional, alimentar los impulsos que lleven a la participación es clave, y cualquier estrategia puede ser buena siempre y cuando se tenga en cuenta procesar las señales con ciertos criterios básicos. Algunas señales es preferente que saturen a que sigan generando ruido, siempre que esta señal no acople claro.
+
+
+                                                3. Los umbrales de saturación: desgastar el emisor
+La importancia de la saturación en un sistema es justamente avisar al interactor de su error, o de su mala posición, o que algún componente está mal orientado. Una de las posibilidades es esperar a que el mismo público intente regular esto, con lo cuál mas rápido sea la retro-alimentación y la saturación, más probabilidad de auto-regulacion tendrá el sistema.
+
+                                                   1. Saturación dinámica
+Tambien puede regularse estos umbrales dinámicamente, a través de otro sistema paralelo de auto-regulación, que inteligentemente por ejemplo, pueda modificar la ganancia de un micrófono o la exposición de una cámara. Aquí surge la dificultad de que el sistema funcione de forma conjunta e integrada, y aparece finalmente la necesidad futura de que el sistema pueda a su vez aprender del comportamiento del público, sabiendo como regular estos umbrales y mantener la estructura vital de la narrativa interactiva. (Inteligencia artificial, redes de predicción ). Google por ejemplo, ya ofrece una API pública para hacer deducciones en base a una serie de datos con los que se lo alimente.
+
+                                                      3. La regulación negativa
+Frente a la estrategia más simple de la regulación positiva, que trata de acelerar los procesos o fenómenos, en el otro polo encontramos su opuesto: la regulación negativa. Su rol es el de inhibir un proceso o fenómeno, reprimir los impulsos en pos de regular las variaciones del sistema como principal método para mantener en equilibrio el sistema.
+
+                                                         1. La Evasión y el Exilio
+La primera estategia de regulación negativa es la evasión, o sea, si existe algo o alguien que amenaza y atenta al equilibrio, evitar su contacto o proximidad es claramente, en un mundo de formas y fondos, una muy buena estrategia. Cualquier otra estrategia implica niveles de procesamiento mucho más complejos.
+
+                                                            1. Estrategias exportadoras
+Exportar calor, entropía, es lo que hace por ejemplo el sistema de transpiración del cuerpo. Exportar el exceso de calor a través del vapor de la transpiración.
+
+                                                               1. Umbral regulatorio
+Los  umbrales auditivos funcionan dentro de ciertos límites. Una primera regulación sirve para calibrar el oído en función de la cantidad de sonido presente en el ambiente. Estos umbrales en los que se regula algunos elementos internos del sistema para calibrar la señal, pueden también llegar a límites perturbadores para el sistema, y es allí dónde los niveles de saturación desencadenan niveles represivos frente al origen de la señal que involucrarán toda una serie de nuevas estrategias represivas de esa señal. ( taparse los oidos, ubicar la fuente rápidamente e intentar eliminarla )
+
+                                                                  2. La Represión
+
+La represión como estrategia regulatoria, es de lo más complicada ya que implica de por si un cierto gasto energético. Es sencilla para una entidad que tiene reservas de energía, fuerza y precisión para aplicarlas.
+
+                                                                     1. Limites mecánicos y topes
+Limitar el acceso a ciertos elementos, es de alguna manera tener una reserva de energía, condensada en una barrera sólida y disuasiva. En un artefacto móvil, sus topes sólidos, una cuerda o una guía permiten que se accione sin peligro de perder la coherencia diseñada dentro de la escena.
+
+                                                                     2. Desactivación automática de componentes
+Una de las estrategias más básicas es la desconección de uno o todos los componentes del sistema. El desmayo en un ser humano es la estrategia final para el cuerpo frente a la incapacidad de autoconservación, suele existir como una manera básica antes de morir, el cuerpo le dice al ser conciente que ya no puede estar a cargo. Hacerse el muerto es quizás una muy mala estrategia de supervivencia pero como última estrategia frente al desgaste acelerado (golpe, golpiza) ha salvado más de una vida.
+
+                                                                     3. Atención selectiva
+Mismo sentido que el anterior, si un sensor satura todo el tiempo (regulaciones aplicadas antes, etc) se desactiva ese sensor, y de alguna manera se intentará seleccionar aquel que mejore cumpla su función, ya sea por su calidad, posición o simplemente por estar en buen estado. Si un ojo funciona mal, el cerebro concentra la atención en el ojo bueno.
+
+                                                                     4. Moderación de señales
+Nuevamente la moderación de los umbrales de las señales de saturación, pueden implicar una regulación negativa en el hecho de que se pierde la captación de un grupo de frecuencias, pero al menos se percibe algo. Ese algo dependerá claramente de las condiciones del contexto que hacen que el umbral se corra. Y dependiendo nuevamente de un aprendizaje sistémico previo y dinámico, el sistema sabrá finalmente si está frente a una particularidad o no  y desencadenará un nivel muy diferente de estrategias regulatorias.
+
+                                                                     5. Disuasión
+La disuasión implica una barrera verdadera o falsa que cumpla esa función.
+
+                                                                        4. Autopoiesis, Inteligencia Artificial y Guiones Interactivos
+
+En el arte interactivo ya se ha planteado la problemática de la regulación de los sistemas, desde la invención del término autopoiesis, como el proceso en que un sistema puede autoconservarse y autoreproducirse, que acuñado por los biólogos Humbeto Maturana y Francisco Varela ha servido para describir ciertos procesos de narrativas interactivas. Surge cierta ambigüedad frente a una narrativa interactiva, de si es necesario o no la condición de  reproducirse a si mismo, ya que una cosas es que la máquina narre, y que la máquina pueda ser intervenida, con su propio instinto de conservación y otra que una de sus capacidades sea de reproducir otra máquina de narrativa interactiva ( contenga o no a componentes humanos ).
+
+                                                                           1. Autoregulación Dinámica vs Reconección Dinámica
+Para que una instalación de narrativa interactiva se autoregule debe existir un cierto nivel de inteligencia que le permita seleccionar correctamente la mejor estrategia de las enumeradas antes. En la dialéctica entre la regulación positiva y negativa, no deja de entreverse la problemática, tambien dinámica de la decisión. Cualquier decisión implica el ciclo cognitivo [sensado]->[polarizacion categórica]->[abstracción linguística]->[integración cognitiva] ->[regulacion del sensado]. Lo que suele reducirse a una red neuronal que conecta estos subsistemas con diferenciaciones y analogías estructurales coordinadas por la evolución del sistema, a priori y a posteriori de su ciclo vital.
+
+                                                                              4. Potencialidad Artística: La identificacipon con la narrativa
+La potencialidad artística habla de la capacidad de resonancia del sistema orgánico de la narrativa interactiva con el público. Es algo que sin ánimo de ser medido representa el potencial de comunicación de una obra, no por ello su potencial propiamente artístico desde el punto de vista histórico y lineal. De hecho la idea de potencialidad artística es claramente una potencialidad que se ubica en el principio del hecho artístico más que del arte. De su cualidad de ubicarse emocionalmente en el tiempo y en el espacio, con un lenguaje que combine tanto lo poético como lo cultural en un intervalo de tiempo, que es en general del ciclo de vida del sistema. Haremos un pequeño repaso de las cualidades observadas en la participación del público y como la instalación orgánica espera motivarla.
+
+                                                                                 1. El Público Pasivo
+El público es pasivo por definición. Se espera tradicionalmente de él incluso una respuesta polar, entre el gusto y el disgusto que le genera la obra. Aunque en una instalación interactiva se le abre las puertas a la participación, a veces esta es tan sutil que suele generarse “artefactos” indeseados del lado del diseñador de la obra y a su vez de lo que esperaba el “interactor”. El aspecto más sencillo a tener en cuenta sin involucrar demasiado al público, es su simple presencia como disparador del proceso de la narrativa interactiva.
+
+                                                                                    1. Potencialmente activo: en el lugar
+La obra interactiva no hace forzosamente a la narrativa interactiva. En una instalación dónde se encuentra la posibilidad de crear una relación entre la presencia del público en el ambiente localizado de la instalación y la representación de esta, ya sea a través de un medio o un sonido, no implica necesariamente que el público participe de esa narrativa. Y aquí quiero dejar claro la diferencia de la siguiente manera: un publico pasivo, pero potencialmente activo es aquel que participa de una instalación que depende de él para su ciclo vital, pero que no influirá en el producto final de la narrativa interactiva. Es el caso de cualquier dispositivo que simplemente dispara una secuencia de película al azar sin importar más que la presencia de una persona en el espacio. ( “Rueda de reconocimiento” )
+
+                                                                                    2. Potencialmente activo: por internet
+En el mismo caso, podríamos definir a un público nuevamente potencialmente activo, pero pasivo como observador, aunque tiene un peso siendo observador simplemente,  y puede desde un dispositivo remoto a través de señales de radio activar la narrativa interactiva. Lo interesante de este tipo de instalación es que lo potencialmente activo implica que muchas veces el público suele encontrar “bugs”, o espacios que le permiten jugar con ciertos límites de la instalación, y sin querer ofrecen niveles performáticos que suelen ser más interesantes inclusos que el concepto artístico detrás de la narrativa esperada. Esta potencialidad es propia de lo sistémico, más que de la instalación interactiva propiamente dicha.
+
+                                                                                       2. Activo: El arte de la interfaz
+                                                                                       1. recorrido y acción funcional
+El público debe generar y crear algo para que algo pase, lo que puede hacer está limitado claramente por el contenido semiótico de las interfaces.
+                                                                                          1. Se espera que haga algo! Sino no pasa  nada
+hacer algo implica todo el recorrido sinaptico cognitivo.... pero el limite de la interface mantiene obligatoriamente la coherencia
+                                                                                          2. Lo que haga define
+si lo que hace tiene o no reverberancia, si lo que hace tiene o no sentido en el contexto que propone la instalación, una decisión que desencadena un guión interactivo distribuido en un árbol de ramificaciones a su vez guionadas.
+
+                                                                                             2. Recorrido libre
+Aunque el aspecto funcional no puede ser ignorado en una instalación, hay una componente poética que puede ser motivada justamente por asegurar un cierto libre albedrío para el público. La narrativa interactiva puede tratarse de una gran simulación histórica dónde se nos permite interactuar con otros actores y personajes que a su vez se encuentren integrados a la instalación. Este tipo de narrativas interactivas propone una ambientación experimentable y lo discursivo pasa por los elementos que componen este universo con algunas reglas limitadas, pero a su vez un campo de acción más permisible con respecto al camino a recorrer. La historia se va contando mientras se recorre y experimenta este universo diseñado para tal propósito. En el caso de tuplantaforma.com, el recorrido siendo libre, se convocaba a un grupo de personas en torno a un evento performático emitido por la radio online del sitio.
+
+                                                                                             3. Acción performática
+La accion performática como fenómeno emergente de las componentes propiamente interactivas sujetas a los impulsos creativos y subjetivos de los participantes deviene una sub-obra de la narrativa interactiva aportada por estos, y siendo fomentada por la propuesta del guión escénico interactivo refuerza además la característica immersiva de la instalación. La acción perfomática es una componente espectacular que contribuye tanto a la immersión del participante en el sistema, como a la re-afirmación del ciclo vital del sistema para un participante pasivo, un espectador externo. La acción performática tanto del público como de actores humanos en escena es un claro potenciador artístico.
+
+                                                                                                1. Nivel onírico y creativo, Resignificación y Motivación
+El nuevo tipo de categorías que sugieren las narrativas interactivas ponen en cuestión las tradicionales y siempre respetadas artes tradicionales, pero redoblando la apuesta, poniendo de manifiesto aspectos estéticos, éticos, políticos como es la participación colectiva de los espectadores en la creación del director, del performer, del artista. Este cambio en las costumbres convencionales de como se experimenta el arte para el gran público, es el principio de un replanteo que no sólo sucede en la escena sino que ya está muy adelantado en las redes sociales, y en los medios internetísticos en general. La participación abierta, las creaciones colectivas, y la nueva convención de que la máquina es una máquina comunicadora, pero que no contiene realmente el mensaje, sino que el mensaje se construye dinámicamente y evolutivamente sobre este soporte, siendo dos entidades independientes, claras y simbióticas. Como dos criaturas que conviven, una con la otra se potencian y luego de un tiempo una sin la otra no podrá sobrevivir.
+
+                                                                                                2. Acción performática colectiva
+El caso de tuplantaforma.com permite la experimentación de este tipo de formas. También se potención en Speak 4.0 Liquid con la participación del público con sus celulares. En lo colectivo son muchos los experimentos, esencialmente de juegos que se han hecho en un plan de construcción colectiva de la narrativa interactiva.
+
+                                                                                                   1. Competitiva
+El caso de Joust es un excelente ejemplo para experimentar una performance (playformance) particular que involucra a personas reguladas por una música y unos sensores de movimiento que cada participante lleva en la mano. El ritmo de la música está directamente relacionado con el umbral preestablecido por el sistema sobre los sensores de movimiento: si la persona que tiene el sensor se mueve más rápido de lo que sugiere la música, este sonará y quedará descalificado. En teoría de juegos, los juegos competitivos dónde sólo se gana o se pierde, son conocidos como binarios y de alguna manera van siendo de a poco desplazados por aquellos más colaborativos.
+
+                                                                                                   2. Cooperativa, Colaborativa
+En una búsqueda más cooperativista, por ejemplo, Remanencia y su torso interactivo inmóvil invitaba a la posibilidad intrínseca de construir entre varios un abrazo, un contacto con una entidad sensible y que determina una respuesta sin juzgar ni imponer la convención de utilización del sistema torso-persona. Fue interesante ver como finalmente una vez aprehendido por el público, este mismo fue abriendo su capacidad exploratoria y nuevamente planteando la inherente apertura del sistema torso-público. 
+
+                                                                                                      5. Identidad narrativa y red autopoiética
+Finalmente lo que se conserva es una parte de la red de componentes interconectados que procesan el contexto dónde las formas pueden ser humanas, el fondo está diseñado por una serie de indicadores que a su vez son calculados en tiempo real y a través de estos mismos componentes. Es importante a través de los grafos antes descriptos visualizar una clara necesidad de esquematización que permita sin entrar en los detalles comprender la dinámica sensorial y comunicacional inherente al sistema que propone la narrativa interactiva. A su vez la idea es formular una metodología de base que ayude a identificar y diferenciar ciclos y sub-ciclos de significación dentro del sistema y los sub-sistemas de la instalación.
+Ahora intentaremos retomar algunas herramientas que nos han servido para construir la identidad narrativa en la instalación interactiva.
+
+                                                                                                         1. Enunciación
+La enunciación implica una sucesión o serie de elementos que son mostrados, o reproducidos a través de las diferentes componentes tecno-humanas dentro del espacio-tiempo de la narrativa interactiva. Es el método más clásico y es claro y conciso, ideal para contar una historia que sucedió dónde los protagonistas son finitos, el contexto es finito y el intervalo espacio-temporal también es finito. A partir de la aparición de las narrativas interactivas, las componentes del sistema se modernizaron y el sistema no puede sino tomar las propiedades de este nuevo tecno-narrador. Una de las únicas maneras de representar estos sistemas, luego de experimentarlos es abrirse completamente a una nueva forma de esquematizarlos, desproveyéndolos de la mística dialéctica de la dramaturgia clásica. La enunciación implica linealidad, y es muy dificil mantener la linealidad si no es asistida y forzada, y previsible.
+
+
+                                                                                                            2. Grafos
+Los grafos son una herramienta sencilla y lo suficientemente elaborada para abarcar el nivel de complejidad de cualquier sistema. Una red neuronal es un grafo en 3d, mientras que un organigrama es un grafo en 2d. Un árbol es un grafo. Los fractales pueden también ser representados con grafos, y cada nodo como una transformación.
+
+                                                                                                               1. De lo lineal (clásico), a lo multilineal (elige tu propia aventura), a los grafos
+El guión interactivo que plantea la narrativa interactiva,  evolucionó como lo puede haber hecho el guión en el cine,  desde una lógica temporal sincrónica a una aparentemente asincrónica. Lo más común siendo lo lineal, cronológico, dónde el tiempo es quien lleva el ritmo, la acción, el suspenso, catástrofe, ciencia ficción, futurismo, comedia, ... y nos conecta desde los hechos mas cotidianos, y más allá de nuestra capacidad de elegir revela un árbol de posibles historias más que de una historia interactiva. A partir de la utilización de grafos para describir la instalación de una narrativa interactiva, conectando sus componentes a través de líneas representado la orientación de las señales se dispone la lectura esquemática de la narrativa como tal. No siendo suficiente para describir las posibilidades narrativas de esta meta-estructura, aparece por otro lado, la utilización de grafos también para describir el flujo de la narrativa menos visible, la narrativa interactiva de los mensajes (narración) dentro del medio (instalación).
+ 
+                                                                                                               2. Historias Paralelas
+Es común, comprender este nuevo análisis topológico de la narrativa interactiva más adecuadamente aplicándolo al fenómeno de infinitas historias paralelas. Se comportan mucho más como un micro universo, con reglas, torceduras y posibles grandes excepciones que como una simple narración de hechos, descripciones, profecías y cruces azarosos. La cantidad de historias que pueden narrarse es una combinatoria entre los diferentes puntos e acceso del público al medio (instalación), y las diferentes historias (narrativas) o subciclos vitales que se interconectan dentro del medio.
+
+                                                                                                                  3. Ecosistema o Instalación Orgánica
+En definitiva algo que plantea este artículo es como una narrativa interactiva con componentes dinámicos, para reproducir una identidad narrativa concisa, manteniendo su potencial artístico, puede esquematizarse bajo un grafo de relaciones  ( más estáticas que dinámicas), que consituye la red autopoiética que dará sentido y significado a la experiencia del participante, individualmente, o colectivamente tanto de forma presencial como remota.
+Son las mismas reglas que tarde o temprano se definen en los sistemas orgánicos, dónde la capacidad de reproducción es sublimada a través de la copia del código fuente, o esquema estructural de la instalación. Ninguna reproducción sucede realmente sin un contexto complejo que la asegure. En el caso de una narrativa interactiva, ese contexto es una red ya existente que mezcla componentes tecnológicos y humanos para su ciclo vital infinito autopoiético: WWW, World Wide Web. La amplia red mundial.
+
+                                                                                                                     1. Equilibrio Dinámico
+El equilibrio como cualquier sistema, es reducido a una autoregulación de uno o más componentes y de sus relaciones entre sí, con el público y su contexto. El equilibrio siempre es dinámico en la narrativa interactiva, ya que implica el cambio por la intervención directa del público. Todos los sistemas de regulación funcionan simultáneamente en pos de mantener el equilibrio, gracias a la retroalimentación sensible e inteligente de las señales, a través de componentes tecnológicos y humanos combinados. Recordemos que el lenguaje es considerado un componente tecnológico, como propio a la expansión de los niveles de abstracción y por ende de memorización del cerebro humano. Un punto a tener en cuenta en el equilibrio dinámico es la capacidad del sistema de elegir correctamente la estrategia para mantener la identidad narrativa, alternando estrategias de regulación positiva y negativa según el contexto, o el designo del guión interactivo. A su vez permitiendo que en algunos casos haya mucha libertad para el participante, que tengas cosas para tocar, hacer, intercambiar y así inmiscuirse aún más profundamente en la experiencia  vivencial de la instalación.
+
+                                                                                                                     2. Eco-guión Interactivo
+El eco-guión finalmente debería tener parte intrínseca de la inteligencia de la instalacion, razón por la cual es importante que aquellos que quieren contar historias estudien este tipo de esquematización que servirían para ordenar la ficha de ruta para la producción de una de estas instalaciones. El eco-guión es un guión que como dice el nombre, velará por la economía de los recursos, en mantener su estructura argumentativa, propondrá una red clara de componentes y conecciones. Estos deberán intercomunicarse de forma efectiva.
+
+                                                                                                                     3. Flexibilidad Narrativa
+¿Existe la flexibilidad del discurso en la narrativa interactiva como puede existir en el cerebro? Y si existe cual es el límite en que la narrativa interactiva pierde su identidad original.
+
+
+
+Conclusiones:
+
+
+La obra de arte como abstracción apunta, ya sea, a una descripción más estética, o a una más simbólica, pero siempre lo hace en relación a una realidad contextual que comparte inevitablemente con el proceso de diseño de la obra. Hemos visto modificarse los criterios que se usan para pensar, componer y diseñar las obras, acercándonos inevitablemente a una realidad más completa y rica en interacción, y que se ve plasmada en una creciente cantidad de opciones de formatos nuevos y aún por descubrir.
+Lo siguiente es plantear estas nuevas reglas en sistemas de fácil diseño que permitan con cierta agilidad no sólamente combinar los estados de los eventos que vinculan a la obra interactiva y sus elementos sino a poder diseñar sucesos compatibles con esta riqueza conceptual y fenoménica.
+Estamos frente a un nuevo arte del guionado, el guión interactivo o eco-guión dónde la importancia de comprender reglas de vinculación complejas entre elementos y la capacidad de permitir diferentes niveles de participación se convertirán en los próximos desafíos, no sólo afectando a las artes clásicas sino creando continuamente categorías nuevas dónde las historias existirán en diferentes niveles y dimensiones sugiriendo hyper-realidades análogamente a como se experimentan los perfiles de las redes sociales.
+El mundo que conocemos es multidimensional y por ende la dialéctica del drama en una realidad interactiva es hoy multidimensional. La capacidad de memorizar de cada elemento es potencialmente infinita.
+Tuplantaforma.com plantea ya el siguiente punto, la posibilidad de navegar por la historia del sistema, y de alguna manera re-escribirla y afectarla. Estamos construyendo las herramientas que inevitablemente nos acercan a comprender más profundamente la naturaleza y el concepto evasivo de un universo posiblemente infinito y poblado de otros universos y mundos desconocidos. El límite sigue siendo nuestra imaginación.
+
+
+
+
+
+
+
+Bibliografía/Referencias
+                                                                                                                        *                                                                                                                         * El Arte interactivo: de la combinatoria a la autonomía - Edmong Couchot (2005)
+                                                                                                                        * La technologie dans l’art - Couchot, Edmond (1998)
+                                                                                                                        * The Fractal Geometry of Nature -Benoit Mandelbrot - 1982
+                                                                                                                        * Lorenz, Edward N. (1963). "Deterministic non-periodic flow". Journal of the Atmospheric Sciences
+                                                                                                                        * Kellert, Stephen H. (1993). In the Wake of Chaos: Unpredictable Order in Dynamical Systems. 
+                                                                                                                        * Walker. J. C. G., Hays, P. and Kasting, J. F. 1981. "A negative feedback mechanism for the long-term stabilization of earth's surface temperature". J. Geophys. Res. 86, 9776-9782. 
+                                                                                                                        * Biological homeostasis of the global environment: the parable of Daisyworld - By Andrew J. Watson, and James E. Lovelock. Published in Tellus (1983). 35B, 284-289 284. Manuscript received 20 October 1982.
+                                                                                                                        * Atmospheric homeostasis by and for the biosphere: the Gaia hypothesis - By James E. Lovelock and Lynn Margulis, published in Tellus XXVI (1974). 
+                                                                                                                        * Cellular Automata and Complexity: Collected Papers
+                                                                                                                        * Nottale, L., G. Schumacher, and J. Gay. 1997.“Scale Relativity and Quantization of the Solar System.” Astronomy and Astrophysics 322 (June 1): 1018–1025.
+
+
+
+
+Links/Sitios
+
+
+                                                                                                                        * Speak Interactive: http://speakinteractive.blogspot.com.ar/
+                                                                                                                        * Speak: https://www.facebook.com/SpeakInteractive
+                                                                                                                        * Remanencia: https://www.youtube.com/watch?v=uoCAs7KvgAA
+                                                                                                                        * TuPlaNtaforma: www.tuplantaforma.com
+                                                                                                                        * Narciso en tiempo real: www.tecnoescena.com/contenido.asp?id=52
+                                                                                                                        * Narciso: http://www.moldeo.org/obras/Narciso+en+Tiempo++Real
+                                                                                                                        * Autopoeisis: Humberto Maturana y Francisco Varela 
+                                                                                                                        * James Lovelock: http://www.jameslovelock.org/
+                                                                                                                        * JNLabls: Energía libre: http://jnaudin.free.fr/
+                                                                                                                        * Pensamiento Sistémico: http://es.wikipedia.org/wiki/Pensamiento_sistémico
+                                                                                                                        * Conway’s Life Game: http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+                                                                                                                        * inteligencia artificial: 
+                                                                                                                        * Teoría del caos, recursividad, recursividad: http://mario-klingemann.tumblr.com
+                                                                                                                        * Diferenciación, integración, matemática, límite: Leibnitx, Newton
